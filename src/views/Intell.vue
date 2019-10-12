@@ -58,7 +58,7 @@
             <el-table-column prop="schools.pro" label="院校隶属"></el-table-column>
             <el-table-column prop="schools.type" label="院校类型"></el-table-column>
             <el-table-column prop="cenci" label="学历层次"></el-table-column>
-            <el-table-column prop="majorNumber" label="招生人数"></el-table-column>
+            <el-table-column prop="count" label="招生人数"></el-table-column>
             <el-table-column prop="majorNumber" label="专业代码"></el-table-column>
             <el-table-column prop="num" label="填报"></el-table-column>
           </el-table>
